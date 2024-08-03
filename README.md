@@ -19,3 +19,9 @@ We propose a novel data-driven optimal adaptive fault-tolerant control method fo
 
 - The main program and GP training part need to be separated for computation.
 - The parameters of MPC, Kalman filter, fault detector and GP need to be reset.
+
+### Cite:
+
+- Please cite our paper if you use this code in your own work:
+  
+Lu, Yu, Guoqiang Li, Yu Yue, and Zhenpo Wang. "Fault Detection and Data-driven Optimal Adaptive Fault-tolerant Control for Autonomous Driving using Learning-based SMPC." IEEE Transactions on Intelligent Vehicles (2024).
